@@ -8,7 +8,7 @@ description: twitter summary info
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/Ninja.png
+picture: /assets/images/Ninja.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,7 +16,7 @@ picture: assets/images/Ninja.png
 #resume-external: true
 #resume-url: https://google.com/?q=my+resume
 
-url: https://thewarriorintraining.github.io/
+url: https://thewarriorintraining.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
